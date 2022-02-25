@@ -1,6 +1,7 @@
 - 👋 Hi, I’m crafter544
 - 👀 I’m interested in computing and coding
-- 🌱 I’m currently learning python and a few other lanugages 
+- 🌱  I’m currently learning python and a few other lanugages
+- 👨‍🏫 Student
 
 
 <!---
