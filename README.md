@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Crafter
-- 👀 I’m interested in computing and coding
+- 👀 I’m interested in computer science and coding
 - 🌱 I’m currently learning python and a few other lanugages
 
 
