@@ -13,7 +13,7 @@ how machines work and what makes them stop or get expolited by a script.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/crafter544)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17659383)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Crafter91)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)  
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=robd62w79na12r3obg2x1yn7v)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crafter544)  
 
 
