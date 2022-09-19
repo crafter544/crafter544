@@ -17,6 +17,6 @@ not supposed to or get expolited by a complicated script or simple lines of code
 - ⏮️ Past Projects: CraftAssistant, MrMan
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?crafter544=Tanu-N-Prabhu&theme=blue-green)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crafter544)  
 
