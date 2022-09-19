@@ -1,5 +1,4 @@
 ### Hey I'm Crafter
-![](https://drive.google.com/file/d/17crkLnnE37Xa-3LVo65TtBnCYemaA_V5/)
 
 Im 15 years old and im intrested in Computer Secuirty and Coding/Programming.
 Im curently learning Python but have been looking into other programing languages along the way.
