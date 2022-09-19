@@ -15,7 +15,7 @@ I have started enjoyed a little bit of hacking for some reason something is very
 - ⏮️ Past Projects: CraftAssistant, MrMan
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=robd62w79na12r3obg2x1yn7v) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=robd62w79na12r3obg2x1yn7v)![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crafter544)  
 
