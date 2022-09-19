@@ -2,7 +2,8 @@
 
 
 
-![](https://github.com/crafter544/Images/blob/main/Crafter544%20Banner.png?raw=true)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/crafter544)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='60'>](https://stackoverflow.com/users/17659383)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='60'>](https://www.reddit.com/user/Crafter91)  
+![](https://github.com/crafter544/Images/blob/main/Crafter544%20Banner.png?raw=true)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/crafter544)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='60'>](https://stackoverflow.com/users/17659383)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='60'>](https://www.reddit.com/user/Crafter91)
+  
 
 
 Info about me:
@@ -17,6 +18,5 @@ not supposed to or get expolited by a complicated script or simple lines of code
 - ⏮️ Past Projects: CraftAssistant, MrMan
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?crafter544=Tanu-N-Prabhu&theme=blue-green)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crafter544)  
-
+![](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)
+![](https://activity-graph.herokuapp.com/graph?username=crafter544)  
