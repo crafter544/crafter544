@@ -4,14 +4,11 @@
 
 Im 15 years old and im intrested in Computer Secuirty and Coding/Programming.
 Im curently learning Python but have been looking into other programing languages along the way.
-Right now i have enjoyed a little bit of hacking for some reason somethng is very satisfying about 
-how machines work and what makes them stop or get expolited by a script.
+I have started enjoyed a little bit of hacking for some reason something is very satisfying about how machines work and what makes them do something that they are not surposed to or get expolited by a complicated script or simple lines of code.
 
 - 🔭 I’m currently working on a project called MrManX
 
-Past Projects:
--CraftAssistant
--MrMan
+- Past Projects: CraftAssistant, MrMan
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=robd62w79na12r3obg2x1yn7v) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)
