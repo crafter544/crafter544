@@ -8,7 +8,7 @@ Hey I'm Crafter
   
 
 
-Info about me:
+Info about me
 -
 Im 15 years old and im intrested in Computer Secuirty and Coding/Programming.
 Im curently learning Python but have been looking into other programing languages along the way.
@@ -23,12 +23,12 @@ not supposed to or get expolited by a complicated script or simple lines of code
 
 
 What i Want to Learn
-----------------------
+-
 - DataBases/SQL
 - JavaScript
 - How to create applicatons 
 
 Github Stats
-----------------------
+-
 ![](https://github-readme-stats.vercel.app/api?username=crafter544&show_icons=true)
 ![](https://activity-graph.herokuapp.com/graph?username=crafter544)  
