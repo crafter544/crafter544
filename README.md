@@ -26,7 +26,13 @@ What i Want to Learn
 -
 - DataBases/SQL
 - JavaScript
-- How to create applicatons 
+- Creating applicatons 
+
+Skills
+-
+- Python
+- A little Social Engineering
+- Hacking (Ethically)
 
 Github Stats
 -
