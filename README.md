@@ -10,10 +10,10 @@ Hey I'm Crafter
 
 Info about me
 -
-Im 15 years old and im intrested in Computer Secuirty and Coding/Programming.
-Im curently learning Python but have been looking into other programing languages along the way.
+I'm 15 years old and I'm interested in Computer Security and Coding/Programming. 
+I'm currently learning Python but have been looking into other programming languages along the way. 
 I have started enjoyed a little bit of hacking for some reason something is very satisfying about how machines work and what makes them do something that they are
-not supposed to or get expolited by a complicated script or a few simple lines of code.
+not supposed to or get exploited by a complicated script or a few simple lines of code.
 
 
 - 🔋 I’m currently working on a project called MrManX
