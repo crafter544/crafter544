@@ -16,7 +16,7 @@ I have started to enjoy a little bit of hacking for some reason something is ver
 not supposed to or get exploited by a complicated script or a few simple lines of code.
 
 
-- 🔋 I’m currently working on a project called IDK YET
+- 🔋 I’m currently working on a project called MrManXL
 
 - Just Finished MrManX
 
